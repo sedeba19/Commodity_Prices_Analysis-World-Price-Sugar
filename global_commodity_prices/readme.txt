@@ -1,0 +1,1 @@
+The data was gathered from https://www.kaggle.com/code/josephdepalo/commodity-prices-time-series
